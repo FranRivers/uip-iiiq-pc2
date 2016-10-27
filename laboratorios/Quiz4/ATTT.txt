@@ -1,0 +1,6 @@
+Nombre: fra
+Velocidades totales: 2
+#1: Velocidad -> 100, Multa-> 20
+#2: Velocidad -> 300, Multa-> 150
+Multa total: 170
+Velocidad total:400

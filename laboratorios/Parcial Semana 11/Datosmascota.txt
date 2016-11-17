@@ -1,0 +1,3 @@
+Nombre: Anderson
+Acciones realizadas: 17
+puntos de vida:-2
